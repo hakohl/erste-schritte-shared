@@ -1,3 +1,0 @@
-bar.txt
-
-base version
