@@ -2,3 +2,4 @@ foo.txt
 
 base version
 mod 1
+mod 2
